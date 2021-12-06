@@ -38,6 +38,8 @@ public class UserController {
 	public static final String PINCODE = "Pincode";
 	public static final String REDIRECT = "Redirect";
 
+	
+//	 add comments
 	@Autowired
 	private UserService userService;
 
